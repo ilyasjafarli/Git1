@@ -3,3 +3,5 @@ bu bir testdir
 =======
 git bezdirdi
 >>>>>>> 3ff2d56211cc2ab26b61e214b043c453c3606239
+git burdan lan
+commitler arasi kecis
