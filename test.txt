@@ -1,1 +1,5 @@
 bu bir testdir
+<<<<<<< HEAD
+=======
+git bezdirdi
+>>>>>>> 3ff2d56211cc2ab26b61e214b043c453c3606239
