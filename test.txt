@@ -1,1 +1,2 @@
 bu bir testdir
+git bezdirdi
